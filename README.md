@@ -1,4 +1,4 @@
-[![An image of @pawanrajsingh2088's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pawanrajsingh2088)]<h1 align="center">Hi 👋, I'm Pawan Raj Singh</h1>
+[![An image of @pawanrajsingh2088's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pawanrajsingh2088)](https://holopin.io/@pawanrajsingh2088)]<h1 align="center">Hi 👋, I'm Pawan Raj Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawanrajsingh2088&label=Profile%20views&color=0e75b6&style=flat" alt="pawanrajsingh2088" /> </p>
